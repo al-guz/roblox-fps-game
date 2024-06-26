@@ -1,7 +1,7 @@
 # rocket launcher game (kinda)
 ### platform:roblox
 ## the following source code includes:
-- 2 weapons (lasergun)
+- 2 weapons (rocketlauncher and lasergun!!11!)
 - footsteps
 
 # controls:
